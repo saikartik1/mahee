@@ -2,9 +2,8 @@ Hello everyone
 
 
 
-
-
-
+Peas
+Turmeric
 Curd
 Butter
 Brinjal
@@ -13,6 +12,6 @@ Grocerries Purchase Done
 
 Thank You all.
 
-========
+
 Happy with the current version.
-==========
+
